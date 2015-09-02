@@ -10,5 +10,13 @@ package abstractions;
  * @author alancerio18
  */
 public abstract class SmartPhone implements CellPhone{
-    
+     private String Device;
+
+    public String getDevice() {
+        return Device;
+    }
+
+    public void setDevice(String Device) {
+        this.Device = Device;
+    }
 }

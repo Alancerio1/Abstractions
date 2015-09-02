@@ -10,20 +10,13 @@ package abstractions;
  * @author alancerio18
  */
 
+
 public class Abstractions extends SmartPhone{
 
- private String Device;
 
-    public String getDevice() {
-        return Device;
-    }
-
-    public void setDevice(String Device) {
-        this.Device = Device;
-    }
 
   
     
-   
+
     
 }

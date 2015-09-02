@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author alancerio18
  */
-public interface Person {
+public interface Person extends Organism  {
     
 }

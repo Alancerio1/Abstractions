@@ -9,7 +9,11 @@ package abstractions;
  *
  * @author alancerio18
  */
+
 public abstract class SmartPhone implements CellPhone{
+    public static void main(String[] args){
+
+}
      private String Device;
 
     public String getDevice() {

@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author alancerio18
  */
-public class Galaxys6 extends SmartPhone {
+public abstract class Galaxys6 extends SmartPhone {
     
 }
